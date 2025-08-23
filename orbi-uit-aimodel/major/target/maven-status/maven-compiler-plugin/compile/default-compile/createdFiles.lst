@@ -1,0 +1,4 @@
+com\example\demo\model\UserInput.class
+com\example\demo\DemoApplication.class
+com\example\demo\config\RestTemplateConfig.class
+com\example\demo\controller\RecommendationController.class
